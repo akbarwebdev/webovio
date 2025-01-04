@@ -422,6 +422,9 @@
   line-height: 40px;
   color: #b6c197;
 }
+.footer-link {
+  text-decoration: none;
+}
 .footer-column-p {
   color: #b6c197;
 }
